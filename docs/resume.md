@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Resume
+title: Résumé
 permalink: /resume/
 ---
 
@@ -89,5 +89,5 @@ National University of Ireland, Cork, Ireland, 2014-2015
 
 
 ## Affilations
-- Member of the Institute of Physics (MInstP), Worldwide, 2011 - present
-- [Fox.Build](Fox.Build) Makerspace Community Member, St Charles, IL, 2020 - present
+- Member of the [Institute of Physics](https://www.iop.org/) (MInstP), Worldwide, 2011 - present.
+- [Fox.Build](Fox.Build) Makerspace Community Member, St Charles, IL, 2020 - present.
