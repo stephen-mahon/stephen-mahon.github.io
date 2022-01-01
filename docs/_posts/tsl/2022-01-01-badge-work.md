@@ -2,7 +2,7 @@
 type: post
 title: "My Badge Goals for 2022"
 date: 2022-01-01 15:30:00 -0500
-categories: blog, TLS
+categories: TLS
 ---
 
 This year I'd like to increase my skill, agency, and autonomy and become more active rather than passive. A list of achievements, especially when reviewing the previous year, can look dismal if you don't plan and prepare in advance. Being patient pays off in the long term, so here is a list of some of the badges I'd like to complete this year:
