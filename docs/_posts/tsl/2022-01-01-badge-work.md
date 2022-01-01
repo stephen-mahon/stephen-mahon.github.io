@@ -134,13 +134,13 @@ Last year I took introduction to machine learning, four modules in project manag
 I will continue to learn with or without this badge.
 
 ## Shaving Badge
-Riturals in my life are important.
-They make up what is me and my day.
-I want to be more mindful of the daily actions and chores and give respect to the everyday actions.
+Riturals are important in my life.
+They make up what is me.
+I want to be more mindful of the daily actions and chores and give respect to these everyday actions.
 The more abstracted we are from the task the less mindful we become of the action.
 Shaving is a key example.
 Electric razors give a fast and adquate result if used daily.
-I am sure when it was decided that we, as men, do tasks as quickly as possible and with the least effort possible.
+I am not sure when it was decided that we, as men, do tasks as quickly as possible and with the least effort possible.
 I believe that we act less mindful in the above way.
 We must be present and aware of who we are and what we are doing.
 Else we will be overcome with unexpected and unsettling thoughts and feelings about ourselves.
