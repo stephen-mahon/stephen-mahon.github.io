@@ -5,6 +5,9 @@ permalink: /resume/
 ---
 
 ## Experience
+**Edinburgh Instruments**, Remote, USA\\
+*Sales Engineer*\\
+December 2021 - Present
 
 **Fluidic Logic**, Edinburgh, UK\\
 *Founder* (non-exec)\\
