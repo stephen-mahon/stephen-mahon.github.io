@@ -5,7 +5,7 @@ date: 2022-01-01 15:30:00 -0500
 categories: blog, TLS
 ---
 
-This year I'd like to increase my skill, agency, and autonomy and become more active rather than passive. A list can look dismal if you don't plan and prepare in advance at the end of the year. Being patient pays off in the long term, so here is a list of some of the badges I'd like to complete this year:
+This year I'd like to increase my skill, agency, and autonomy and become more active rather than passive. A list of achievements, especially when reviewing the previous year, can look dismal if you don't plan and prepare in advance. Being patient pays off in the long term, so here is a list of some of the badges I'd like to complete this year:
 * Backyard Farmer
 * Craftsman
 * Entrepreneurship
@@ -19,7 +19,7 @@ This year I'd like to increase my skill, agency, and autonomy and become more ac
 * Scholar
 * Shaving
 
-I know this is an ambitious list, but twelve badges correspond with twelve months. Some of the badges I have experience with, for example, I did the 31-day journal challenge way before joining the Strenuous Life. However, I will start most of these badge requirements from scratch. Below are some details and motivations for each badge.
+This list is ambitious, but twelve badges correspond with twelve months. Some of the badges I have experience with, for example, I did the 31-day journal challenge way before joining the Strenuous Life. However, I will start most of these badge requirements from scratch. Below are some details and motivations for each badge.
 
 ## Backyard Farmer Badge
 I've been a vegetarian since early 2016. It is primarily out of a combination of environmental and animal welfare reasons. Industrial agriculture is certainly no saint when it comes to environmental agency, and I often worry about the footprint of each item of food I eat. The workers who pick the food often labor in harsh conditions for minimal pay. I want to experience more self-sufficiency with my grown food and taste the fruits of my labor. I also believe it will be a valuable learning experience for my children to understand that while food grows on trees, it doesn't just arrive on our plates.
@@ -32,7 +32,7 @@ I went to a technical middle-high school to provide all the skills to become a s
 Last year I read the required reading for this badge: Peter Korn's beautiful book [Why We Make Things and Why it Matters](https://godine.com/book/why-we-make-things-and-why-it-matters/) and the insightful Art of Manliness article Measure Twice, Cut Once. I made a desk for my office and a fire piston as a novel fire starting method. The desk is fantastic, and I use it every day. The fire piston, however, needed more work. I will do three more projects this year with the excellent facilities provided by [Fox.Build](https://fox.build).
 
 ## Entrepreneurship Badge
-I would describe myself as entrepreneurial. I have started businesses and have failed. It comes easy to me for some reason, but I have never quite found success in my endeavors. I have created several side-hustles in the last year to tide me over while searching for a job. I do freelance CAD design, buy and resell books on Amazon, and design websites for clients. CAD design has netted me the most money and has the highest input from me. Website design is similar because you are on-call for any problems or queries from clients. Book flipping, however, has more potential for the least amount of input. My colleague Dev Man Dan helped crunch the numbers with me over a Taco Tuesday last week. It certainly looks promising, and I will keep you updated here as I progress towards a $1000 profit over the next year.
+I would describe myself as entrepreneurial. I have started businesses and have failed. It comes easy to me for some reason, but I have never quite found success in my endeavors. I have created several side-hustles in the last year to tide me over while searching for a job. I freelance CAD design, buy and resell books on Amazon, and design websites for clients. CAD design has netted me the most money and has the highest input from me. Website design is similar because you are on-call for any problems or queries from clients. Book flipping, however, has more potential for the least amount of input. My colleague Dev Man Dan helped crunch the numbers with me over a Taco Tuesday last week. It certainly looks promising, and I will keep you updated here as I progress towards a $1000 profit over the next year.
 
 ## Gearhead Badge
 OK, here it goes: I have never learned to drive and have never owned a car. I never had to! I lived in a city until last year when I immigrated to the US. Now my job is remote, and driving is not a priority. My wife drives us places when needed in my Mother-in-law's car when she is not using it (we live with my parents-in-law for a couple of more weeks). We inherited a car before Christmas. Now is an excellent time to learn the basics of car ownership and mechanics, and sometime this year, I will learn how to drive.
