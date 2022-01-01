@@ -1,6 +1,7 @@
 ---
 type: post
 title: "My Badge Goals for 2022"
+date: 2021-01-01 15:30:00 -0500
 categories: blog, TLS
 ---
 
@@ -19,6 +20,7 @@ Being patient pays off in the long term so here are a list of some of the badges
 * Salesmanship
 * Scholar
 * Shaving
+
 An ambitious list, but twelve badges to correspond with twelve month of the year.
 Some of the badges I have experience with, for example I did the 31-day journal challenge way before I joined the Strenuous Life, and last year I built a desk.
 However, I will be starting the majority of these badge requirement from scratch.
