@@ -67,7 +67,7 @@ CAD design has netted me the most money but also has the highest input from me.
 Website design is similar because you are basically on-call for any problems or queries from clients.
 Book flipping however has more potential for the least ammount of input.
 My colleague [Dev Man Dan](https://devmandan.com/) helped crunch the numbers with me over a Taco Tuesday last week.
-It certainly look promising and I will keep you updated here as I progress towards $1000 profit over the next year.
+It certainly looks promising and I will keep you updated here as I progress towards $1000 profit over the next year.
 
 ## Gearhead Badge
 OK, here it goes: I have never learned to drive and have never owned a car.
@@ -103,7 +103,7 @@ It is personal, difficult, and requires much time to compose, edit, and sent out
 We live in a digital age where we expect reactions and responses within minutes.
 The dopamine hit from a notificaiton alert has turned us into animals awaiting a treat.
 Letter writing looks to be the antedote to the crushing digital dependencey of this distopian world.
-I was reminded yesterday by my fine fellow and friend, Luis Fernando Pareja-Roman, PhD, of the inscription carved in marble at the post office
+I was reminded yesterday by my fine fellow and friend, Luis Fernando Pareja-Roman, PhD, TSL New Jersey Chapter, of the inscription carved in marble at the post office
 > Neither snow nor rain nor heat nor gloom of night stays these couriers from the swift completion of their appointed rounds.
 
 ## Personal Finance Badge
