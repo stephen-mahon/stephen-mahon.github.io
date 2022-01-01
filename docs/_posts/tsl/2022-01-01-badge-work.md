@@ -27,7 +27,7 @@ However, I will be starting the majority of these badge requirement from scratch
 Below are some details and motivations for each badge.
 
 ## Backyard Farmer Badge
-I've been vegatarian since early 2016.
+I've been vegetarian since early 2016.
 It is mostly out of a combination of environmental and animal welfare reasons.
 Industrial agriculture is certainly no saint when it comes to envirnomental agency and I often worry about the footprint of each item of food I eat.
 The workers who pick the food often labor in harsh conditions for mininal pay.
