@@ -5,7 +5,7 @@ date: 2021-01-01 15:30:00 -0500
 categories: blog, TLS
 ---
 
-This year I'd like to increase my skill, agency and autonomy and become more active rather than passive.
+This year I'd like to increase my skill, agency, and autonomy and become more active rather than passive.
 A list at the end of the year can look dismal if you don't plan and prepare in advance.
 Being patient pays off in the long term so here are a list of some of the badges I'd like to complete this year:
 * Backyard Farmer
