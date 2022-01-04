@@ -1,0 +1,42 @@
+---
+title: "Stren Game Day 3"
+date: 2022-01-03 23:55:00 -0500
+layout: post
+---
+
+On Monday's we have our Marriage Meetings. We started these before we got married about seven years ago. Back then, it was just the two of us. I was studying for my Masters, and she was finishing her Ph.D. It seemed like life couldn't get any more stressful. However, I've learned over the years that when one stress is relieved, the stress is immediately replaced with something more acute. So we should document the meeting more to see how things have progressed over the years. This time it is a move to a new apartment closer to the city. We move in at the end of next week, and we've not done a lick of packing. For our anniversary last year, we instigated a new tradition: we attempt to predict the most significant stresses in our lives the following year. This kind of forward-thinking is hugely beneficial for revealing future goals and ambitions. 
+
+### Physical Culture
+> Living the Strenuous Life requires committing to one hour of physical activity each day.
+
+Yoga with Adriene Move Day 2. Bicycle kicks on your back after long stretches on planks. It is incredibly humbling. I am enjoying the event with my wife.
+Kettlebells. I'm no kettlebell enthusiast. However, I hear kettlebells are a very functional piece of equipment. All the workouts you need in a 40 lb paperweight. I hear Joe Rogan going on about kettlebell benefits over the year. Still, it wasn't until I heard Pavel Tsatsouline talk about the [whole body benefits of kettlebell training](https://www.youtube.com/watch?v=PWESVqOwMHw) last year did I sit up and listened. Still, I sat around and preached the ignoble life. This year I intend to turn abstraction into action. Pavel has this deadpan video on kettlebell training: [Enter the Kettlebell](https://www.youtube.com/watch?v=cKx8xE8jJZs). I followed closely and learned more than a few things. I recommend you do the same, comrade.
+
+### Skill Development
+> Living the Strenuous Life requires dedication to constant skill acquisition and practice.
+
+#### Craftmans Badge
+I designed a new circular dining table for the new apartment in the small kitchen corner. I am hugely influenced by the woodworkers [Foureyes Furniture](https://www.foureyesfurniture.com/). They have video plans for many pieces, but I decided to design my own with a standard wood thickness. 
+
+![A rendered image of the table](/_assets/images/2022-01-03-kitchen-nook-table.png)
+![PDF plans of the table](/_assets/kitchen-nook-table-drawing.pdf)
+
+#### Journaling Badge
+> Decide on one positive habit you'd like to implement in your life. Whether seemingly mundane (flossing) or perhaps life-altering (exercising), write out the steps you'll take to get there.
+
+I want to get up earlier than I have been, closer to 5 than to 7. This habit can be formed by repetition and frequency. I can get up early once over the next 30 days or do it every day. The other consideration is that developing a habit will not make it easier. Once I stop getting up early, it is no longer a habit. I need to make this habit a lifestyle I will live. The key is not to leave all the tasks until I go to bed. For instance: we went grocery shopping after dinner, had our marriage meeting, did yoga, worked out, cold shower, journal, blog post, and it's 11:47 pm. I need to have all my tasks done before a specific time to get to bed at a reasonable time. I need to organize my time better.
+
+### Moral Discipline
+> Living the Strenuous Life requires forging my moral discipline and seeking to do good deeds every day.
+
+I replaced a loaf of bread in the house. It doesn't sound like much, but it was a big deal.
+
+### The Agon
+**Week 1**
+> Expose yourself to cold water (for at least 5 minutes) every day for seven days.
+
+Day 3 in the books. It does not get easier. I've been leaving them later each day. A late cold shower helps you sleep better, and I've been restless these last few days. Let's see if it helps.
+I just heard yesterday that I need to do another five days of cold showers to earn the bonus points for Stren Games. 
+
+
+Oh, and I got my booster this evening.
