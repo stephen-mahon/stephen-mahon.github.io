@@ -15,5 +15,5 @@ layout: post
 > Living the Strenuous Life requires forging my moral discipline and seeking to do good deeds every day.
 
 ### The Agon
-**Week 1**
-> Expose yourself to cold water (for at least 5 minutes) every day for seven days.
+**Week 2**
+> Bookend each day with a 90-minute morning and evening routine.
