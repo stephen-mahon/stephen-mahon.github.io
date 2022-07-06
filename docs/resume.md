@@ -5,9 +5,13 @@ permalink: /resume/
 ---
 
 ## Experience
+**Flexible Thinking**, Chicago, IL\\
+*Founder*\\
+July 2022 - *present*
+
 **Edinburgh Instruments**, Remote, USA\\
 *Sales Engineer*\\
-December 2021 - Present
+December 2021 - April 2022
 
 **Fluidic Logic**, Edinburgh, UK\\
 *Founder* (non-exec)\\
