@@ -5,7 +5,6 @@ permalink: /resume/
 ---
 
 ## Experience
-<<<<<<< HEAD
 **Stealth Mode Startup Company**, Chicago, USA\\
 *Co-founder* (non-exec)\\
 July 2022 - present
@@ -13,15 +12,6 @@ July 2022 - present
 **Edinburgh Instruments**, Remote, USA\\
 *Sales Engineer*\\
 December 2021 - May 2022
-=======
-**Flexible Thinking**, Chicago, IL\\
-*Founder*\\
-July 2022 - *present*
-
-**Edinburgh Instruments**, Remote, USA\\
-*Sales Engineer*\\
-December 2021 - April 2022
->>>>>>> ca3db8d1cd97d0ec1edde72f1444a93548c52af2
 
 **Stealth Mode Startup Company**, Edinburgh, UK\\
 *Founder* (non-exec)\\
