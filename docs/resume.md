@@ -5,11 +5,15 @@ permalink: /resume/
 ---
 
 ## Experience
+**Stealth Mode Startup Company**, Chicago, USA\\
+*Co-founder* (non-exec)\\
+July 2022 - present
+
 **Edinburgh Instruments**, Remote, USA\\
 *Sales Engineer*\\
-December 2021 - Present
+December 2021 - May 2022
 
-**Fluidic Logic**, Edinburgh, UK\\
+**Stealth Mode Startup Company**, Edinburgh, UK\\
 *Founder* (non-exec)\\
 October 2020 – March 2021
 - Founder and Early-Stage Researcher for a University startup that focused on the design and control of complex fluidic systems without the use of onboard electronics.
