@@ -68,7 +68,7 @@ European citizen and green card holder--eligible to work in the European Union, 
 ## Education
 `2020`
 **The University of Edinburgh**, Edinburgh, UK
-* *Doctor of Philosophy* (PhD) in Engineering specializing in Electronic Engineerin and Robotics.
+* *Doctor of Philosophy* (PhD) in Engineering specializing in Electronic Engineering and Robotics.
 
 `2016`
 **University College Cork**, Cork, Ireland
@@ -86,7 +86,7 @@ Winner of Most Outstanding Student Paper, *2019 IEEE International Conference on
 Winner of the Dx Challenge, *2017 Antimicrobial Resistance Design Challenge Competition Winter School*, Edinburgh, UK
 
 ## Publications
-For the most up-to-date list of publications, see [Google Scholar](https://scholar.google.com/citations?user=OJ2aNK4AAAAJ&hl=en).
+For the most up-to-date list of publications see [Google Scholar](https://scholar.google.com/citations?user=OJ2aNK4AAAAJ&hl=en).
 
 ## Outreach
 **Workshop Organizer**, Soft Robotics for Enhanced Safety, Access and Performance in Extreme Environments.\\
