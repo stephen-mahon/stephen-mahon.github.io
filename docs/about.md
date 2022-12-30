@@ -1,9 +1,0 @@
----
-layout: page
-title: About
-permalink: /about/
----
-
-I am an award-winning researcher interested in robotics, fluidic and mechanical systems, electronics, rapid prototyping, robotics, spectroscopy, programming, machine learning, and computational physics.
-I have a degrees in physics and electronic engineering.
-I am builing my second startup company from Chicago.
