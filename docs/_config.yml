@@ -33,6 +33,10 @@ theme: minima
 plugins:
   - jekyll-feed
 
+collections:
+  projects:
+      output: true
+
 paginator: 8
 
 # Exclude from processing.
