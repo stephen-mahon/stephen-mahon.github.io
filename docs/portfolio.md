@@ -3,116 +3,112 @@ layout: page
 title: Portfolio
 permalink: /portfolio/
 ---
-## Connect-R
-*Giant Industrial and Hydraulic Robots for Hazardous Environments*
-![](/media/)
-The Connect-R project aimed to address challenges in hazardous environments, focusing on nuclear settings. The robot had to self-assemble and provide access to inaccessible work sites.
-### Responsibilities
-* Prototyping for derisking in the proof-of-concept and ideation stage.
-* Development of control mechanisms for radioactive environments.
-* Invention of fluidic-based systems inspired by graduate work.
-### Achievements
-* I devised control mechanisms for hazardous environments where traditional electronics fail.
-* I developed innovative fluidic systems for self-assembly and operation in radioactive settings.
-* I addressed challenges like lifting heavy objects and processing large volumes of liquids.
 
+## [Fluidic Logic](https://fluidiclogic.com/)
 
-### Media
-* [Connect-R Super Structure Moving Scaffolding](https://vimeo.com/569411483/25a3c2331d)
-* [Soft Systems Group](https://softsystemsgroup.com/2020/05/23/connect-r/)
-* [AZO Robotics Editorial Feature](https://www.azorobotics.com/Article.aspx?ArticleID=476)
-* [Oil Field Technology Report](https://www.oilfieldtechnology.com/special-reports/17072019/robotic-invention-aims-to-build-a-better-way-for-oil-and-gas-industry-to-operate/)
-* [Cumberland & Westmorland Herald coverage](https://cwherald.com/news/breakthrough-robotics-system-to-tackle-the-worlds-most-hazardous-environments/)
-* [Published article detailing the project](https://onlinelibrary.wiley.com/doi/10.1002/aisy.202000227)
+_Enabling Smart Fluidic Machines_
 
----
+`Oct 2020 – Mar 2021`
 
-## Technology: Fluidic Logic
-Based on my postgraduate work, Fluidic Logic Ltd. is a startup that advances fluidic solutions through innovative design and manufacturing processes. The company has received support from The University of Edinburgh, mainly through the NxNw ICURe programme, and has leveraged technology from the InnovateUK Connect-R project.
+### Brief
 
-### Core Capabilities
-*Design for Manufacture of Fluidic Solutions*
-* I crafted fluidic designs optimized for scalable manufacturing processes.
-* I prioritized functionality, cost-effectiveness, and mass production suitability in every design endeavor.
+Fluidic Logic Ltd. is a startup that advances fluidic solutions through innovative design and manufacturing processes. The technology enables rapid manufacture-ready designs for fluidic machines: microfluidics for biotechnology, soft robotics for wearable technologies, and hydraulic control systems for industrial robotics. The company has received support from The University of Edinburgh, mainly through the NxNw ICURe programme, and has leveraged technology from the InnovateUK Connect-R project.
 
-*Intellectual Property (IP) Cores – Design Library and Swift Architectural Innovation*
-*I developed proprietary IP cores to form a comprehensive design library for fluidic systems.
-* Novel architectures allowed for the customization of fluidic solutions to meet unique requirements.
+<img src="../assets/portfolio/fluidic-logic-1.png" alt="drawing" width="675"/>
 
-*Full-Stack Fluidic Design Automation Tools*
-I pioneered fluidic design automation tools covering the entire design spectrum.
-My work empowers intelligent fluidic machines' swift and efficient development, spanning diverse applications from biotechnology to wearable technologies and industrial robotics.
+### Methods
 
-### Achievements
-During the startup phase, I received significant assistance from The University of Edinburgh and the InnovateUK Connect-R initiative. By adopting Fluidic Design Automation tools, I was able to explore innovative possibilities in the field of fluidic machine development. Integrating IP cores into my design workflows has resulted in streamlined processes and the creation of novel fluidic architectures.
+Based on my postgraduate work, I designed fluidic modules on **Fusion 360** and **OpenSCAD** and lab-tested extensively for functionality. I optimised manufacturing processes for scalability with **CNC machining**, **silicone moulding**, and **vector stencilling**. The prioritisation for every design endeavour was functionality, cost-effectiveness, and mass production suitability.
 
-### Future Prospects
-I envision Fluidic Logic Ltd. playing a pivotal role in shaping the next era of intelligent fluidic machines with diverse applications, ranging from biotechnology to industrial robotics. I left the company in 2021 when I immigrated to the United States for personal reasons.
+### Results
 
-### Media
-- [Fluidic Logic Website](https://fluidiclogic.com/)
-- [Patent on a control system for a hydraulic robot](https://patents.google.com/patent/WO2022248836A1)
+I developed proprietary IP cores to form a comprehensive design library for fluidic systems. Novel architectures allowed for the customisation of fluidic solutions to meet unique requirements. I pioneered **Full-Stack Fluidic Design Automation Tools** covering the entire design spectrum. In 2020, Fluidic Logic was awarded Innovate UK ICURe funding and formed as a spin-out startup of the University of Edinburgh.
 
+## [Connect-R](https://www.research.ed.ac.uk/en/projects/connect-r)
 
----
+_Industrial-Scale Self Building Modular Robotic Solutions_
 
-## Microfluidic Bubble Dislodgement
-This was part of some academic work for a research group at the University of Edinburgh.
-The group was investigating bubble dislodgment and pressure distribution in microfluidic networks. The group wanted to use the silicone PDMS but had no experience with molding.
-I designed and fabricated test structures under some tight tolerances: 800 375 um diameter pillars with 200 um spacing between pillars.
-I designed the test structure on Fusion 360 and used the CAM function to generate the G-Code tool path for a Roland MODELA MDX-50 Benchtop Milling Machine.
-Then I designed a  molding box for silicone molding and provided the prototype to the group.
-Unfortunately, the research work was not continued by the group.
+`Jun 2019 – Oct 2020`
 
----
+### Brief
 
-## RoboSoft Seoul, South Korea 2019
-As part of my Ph.D. work, I designed pneumatic circuits for robots
-The pneumatic circuits are equivalent to electronic circuits with pressure as voltage, flowrate as current, and the pressure and flowrate related by the hydraulic resistance of the circuit, a function of the sidewall friction, the channel dimensions, and the geometry of the circuit.
-I designed test structures for measuring pressure/flowrate curves and designed a fluidic transistor.
-I moved from transistors to a logic gate, to sequential logic, to memory elements in the circuit with a state machine to describe the behavior model of the system.
-All the circuits were designed in Fusion 360 and manufactured on a CNC machine -- Roland Modela MDX-20, a desktop CNC milling machine.
-The circuits were "sandwiched" together with routing on both sides of an acrylic sheet and vias for routing between layers.
-The work has since been taken on by a Ph.D. student making fluidic design automation tools.
-I presented my work at the IEEE Internation Conference on Soft Robotics 2019, Seoul S. Korea where I won the most outstanding student paper.
+The Connect-R project aimed to execute sophisticated tasks, such as building structures and deploying tools for inspection, lifting, and cutting, in hazardous environments like nuclear decommissioning, oil and gas mining, and space. In these environments, there is a significant risk to the health and safety of manual workers. As part of the Innovate UK Grand Challenges for Robotics in Extreme Environments, the Connect-R team developed an industrial-scale, self-building, and modular robotic solution to access work sites in these hazardous environments.
 
-### Media
-* [Soft Robots for Extreme Environments: Removing Electronic Control
-](https://ieeexplore.ieee.org/abstract/document/8722755)
-* [http://www.robosoft2019.org/awards.html](http://www.robosoft2019.org/awards.html)
+### Challenge 1:
 
-## Academic Contributions
-For the most up-to-date information, visit my [Google Scholar Profile](https://scholar.google.co.uk/citations?user=OJ2aNK4AAAAJ&hl=en) page.
-In my academic profile, I've garnered 150 citations (as of December 20, 2023), reflecting the impact and recognition of my research within the scholarly community. My h-index, standing at 5, indicates that I have at least five publications, each cited at least five times, providing a balanced measure of my work's quantity and impact. Additionally, my i10-index, reaching 5, signifies that I have at least five publications with a minimum of 10 citations each, showcasing a broader influence on the academic landscape. These metrics collectively underscore the significance and reach of my contributions to soft robotics, environmental monitoring, and microfluidics, reflecting a commitment to impactful and innovative research.
+Develop a systems interface based on the Robotic Operating System (ROS).
 
-### Soft Robots for Ocean Exploration and Offshore Operations: A Perspective
-**Authors**: S Aracri, F Giorgio-Serchi, G Suaria, ME Sayed, MP Nemitz, S Mahon, ...
-**Publication**: Soft Robotics, 8(6), 625-639, 2021
-This collaborative work explores the application of soft robots in ocean exploration and offshore operations. The perspective provided sheds light on the potential of soft robotics in addressing challenges in these environments.
+<img src="../assets/portfolio/connect-r-ros.png" alt="drawing" width="675"/>
 
-### Soft Robots for Extreme Environments: Removing Electronic Control
-**Authors**: ST Mahon, A Buchoux, ME Sayed, L Teng, AA Stokes
-**Publication**: 2019 2nd IEEE International Conference on Soft Robotics (RoboSoft), 782-787, 2019
-This publication focuses on removing electronic control in soft robots designed for extreme environments. The work contributes to soft robotics by exploring innovative solutions for challenging operational settings.
+### Methods
 
-### Capability by Stacking: The Current Design Heuristic for Soft Robots
-**Authors**: ST Mahon, JO Roberts, ME Sayed, DHT Chun, S Aracri, RM McKenzie, ...
-**Publication**: Biomimetics, 3(3), 16, 2018
-This publication introduces the concept of "Capability by Stacking" as a design heuristic for soft robots. The work aims to enhance the capabilities of soft robots through a strategic stacking approach, providing valuable insights for the advancement of soft robotics.
+First, I controlled a simple task using addressing and communication. ROS handled the communications for a hydraulic robot through a Programmable Logic Controller. Then, I moved from the test bench to a prototype system and outlined the system's requirements.
 
-### Cavity-Enhanced Absorption Detection of H2S in the Near-Infrared Using a Gain-Switched Frequency Comb Laser
-**Authors**: S Chandran, S Mahon, AA Ruth, J Braddell, MD Gutiérrez
-**Publication**: Applied Physics B, 124, 1-9, 2018
-This research delves into applying cavity-enhanced absorption detection for H2S in the near-infrared spectrum. Using a highly reflective cavity with the commercial comb laser enhances the sensitivity and accuracy of the detection process, contributing to advancements in environmental monitoring.
+<img src="../assets/portfolio/connect-r-prototype.png" alt="drawing" width="675"/>
 
-### Modular Robots for Enabling Operations in Unstructured Extreme Environments
-**Authors**: ME Sayed, JO Roberts, K Donaldson, ST Mahon, F Iqbal, B Li, ...
-**Publication**: Advanced Intelligent Systems, 4(5), 2000227, 2022
-This publication highlights modular robots' versatile role in enabling operations in unstructured extreme environments. The research provides valuable insights into the adaptability and efficiency of modular robotic systems.
+In this ROS/PLC prototype, the four actuators represent a robotic system.
+The prototype was **Designed For Manufacture** using off-the-shelf hydraulic components, standard steel rods, and 2.5 mm of steel **Sheet-Metal** plasma cut and bent into place for minimal machining.
 
-### Design and Fabrication of a Fully-Integrated, Miniaturised Fluidic System for the Analysis of Enzyme Kinetics
-**Authors**: A Tsiamis, A Buchoux, ST Mahon, AJ Walton, S Smith, DJ Clarke, ...
-**Publication**: Micromachines, 14(3), 537, 2023
-This work presents the design and fabrication of a fully integrated, miniaturized fluidic system tailored to analyze enzyme kinetics. The publication contributes to the field of microfluidics by providing a compact and efficient solution for enzyme kinetics analysis.
+### Results
 
-These publications showcase my diverse research interests and contributions to soft robotics, environmental monitoring, and microfluidics, reflecting a commitment to advancing innovative solutions through academic exploration.
+We ran simulations in our test environment and documented all the work, which was ultimately published in the peer-reviewed journal [Advanced Intelligent Systems](https://onlinelibrary.wiley.com/doi/10.1002/aisy.202000227). Much of the manufacture came to a halt during the COVID-19 pandemic. Still, the team delivered a working prototype of the [Connect-R Super Structure Moving Scaffolding](https://vimeo.com/569411483/25a3c2331d) using the ROS interface to Innovate UK to complete the project.
+
+### Challenge 2:
+
+Design and prototype a new control system for large-scale hydraulic machines using an experimental electronic-free scheme.
+
+Electronic systems and components fail in extreme conditions like nuclear, space, and deep sea. These components must be heavily protected against the ionising effects of radiation exposure or the crushing pressure on the ocean depths. My solution was to remove the electronic components and replace them with a robust fluid-based circuit design.
+
+<img src="../assets/portfolio/connect-r-fluid-control.png" alt="drawing" width="675"/>
+
+### Methods
+
+I demonstrated digital operations similar to those in electronics in hydraulics, such as binary operations to make a latch--a single-bit storage element for volatile memory.
+I designed a circuit to remove the need for each hydraulic actuator to have a separate control line: m actuators, log2(m) select lines (e.g. 64 actuators can be controlled with eight lines). I built a demo system system using off-the-shelf components. I designed and manufactured a small-scale prototype spool-valve using **Rapid Prototyping** methods.
+
+### Results
+
+The prototypes and inventions for a [fluidic-based control system for hydraulic robots](https://patents.google.com/patent/WO2022248836A1) were patented in 2021. The spin-out Fluidic Logic was established out of Edinburgh Innovation, the Technology Transfer Office of the University of Edinburgh.
+
+## [Soft Robotics for Extreme Environments](https://softsystemsgroup.com/2019/02/28/robosoft-2019-soft-robotics-for-extreme-environments-removing-electronic-control/)
+
+_Removing Electronic Control_
+
+`Sep 2018 – Apr 2019`
+
+### Brief
+
+I participated in the 2019 IEEE International Conference on Soft Robotics in Seoul, South Korea, showcasing pneumatic circuits for robots as part of my postgraduate work.
+
+<img src="../assets/portfolio/robosoft.png" alt="drawing" width="675"/>
+
+### Methods
+
+Pneumatic circuits are like electronic circuits with pressure as voltage and flow rate as current. Sidewall friction, channel dimensions, and circuit geometry determine the hydraulic resistance. I designed test structures and a fluidic transistor, then progressed to logic gates, sequential logic, and memory elements.
+I manufactured these circuits using **Rapid Prototyping** techniques such as **laser cutting**, **3D Printing**, **Silicone Moulding**, and I collected data with **pressure sensors**, **Arduino**, and **timing circuits**. The data were analysed using **Python** in **Panda**.
+
+### Results
+
+I showed that we can design pneumatic circuits like electronic circuits in soft robotics. I was invited to present my work at the IEEE International Conference on Soft Robotics 2019. I was awarded the Winner of the Most Outstanding Student Paper award. The [conference paper](https://ieeexplore.ieee.org/abstract/document/8722755/) has been cited dozens of times as the most highly cited presentation paper of the conference.
+
+## [Origami Furniture Design](https://www.origami-lane.com/)
+
+_Red Oak Zen Lotus Chair_
+
+`Dec 2021 – Feb 2022`
+
+### Brief
+
+I collaborated with Lane Allen, AIA, LEED AP, BD&C, on the **CAD** and **CAE** aspects of his unique [Origami furniture](https://www.origami-lane.com/collections) designs, mainly focusing on "folding" wood.
+
+<img src="../assets/portfolio/lane-allen.png" alt="drawing" width="675"/>
+
+### Methods
+
+Lane Allen's Zen-Lotus chair project involved drafting a unique folded chair from a single piece of 4'x8'x ½" plywood cut into three pieces and assembled into its 3D form. The project required expertise in CAD and CAE to bring Lane's vision to life.
+I utilised **Fusion 360** for **3D drafting** of Origami chair designs.
+I worked closely with Lane Allen to understand the metamorphic process exhibited in Origami. I ensured the CAD designs accurately represented Lane's vision before the orthogonal drafting phase.
+
+### Results
+
+I applied CAD expertise to translate Origami concepts into tangible, permanent chair forms. I worked alongside Lane Allen's team, including CNC experts and shop rebuild specialists. The Zen-Lotus chair is available to custom order through [Allen's website](https://www.origami-lane.com/collections/red-oak-zen-windsor-chair).

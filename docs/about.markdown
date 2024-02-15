@@ -3,79 +3,123 @@ layout: page
 title: About
 permalink: /about/
 ---
-# Professional Experience
-`May 2021 - September 2023`\\
-**Flexible Thinking**, Chicago, USA\\
-*Technical Consultant*
-* Successfully delivered high-quality consulting services to clients in various industries.
-* Designed electrical and mechanical systems for manufacturing from requirements to prototypes.
-* Managed complex projects from inception to completion.
-* Demonstrated entrepreneurial spirit in identifying new opportunities and building client networks.
 
-`Oct 2020 – Mar 2021`\\
-**Stealth Mode Startup Company**, Edinburgh, UK\\
-*Early Stage Researcher*
-* Contributed as a researcher for a University startup focusing on designing complex fluidic systems.
-* Developed patented technology with applications in microfluidics (biotech) and industrial hydraulics (robotics).
-* Utilized CAD/CAM for refining prototype systems and iterated designs through rapid manufacturing methods.
+## Education
 
-`Jun 2019 – Oct 2020`\\
-**School of Engineering**, The University of Edinburgh, UK\\
-*Research Associate*
-* Developed a fluidic-controlled system for soft robotics and hydraulic robotic systems.
-* Provided systems engineering principles for developing a systems interface based on the Robotic Operating System.
-* Led mechanical engineering design and fabrication, including structural analysis and CAD
-design/FEM.
-* Prototyped proof-of-concept and ideation using rapid prototyping tools.
-* Disseminated research through internal reports, conference proceedings, and journal publications.
+`2024`
 
-`Jan 2017 – May 2019`\\
-**School of Engineering**, The University of Edinburgh, UK\\
-*Teaching and Lab Assistant*
-* Teaching assistant and lab demonstration in the School of Engineering in Chemical Engineering for undergraduate chemical engineering students.
-* 4.5 hours per week in classes of 70 students and labs of 30 students.
-* I prepared weekly tutorials, solved assigned problems, explained theory and concepts, graded labs, exams, and reports.
-* Topics covered: units & components, mass balances, vapor liquid equilibria, reactions & recycle, energy balances with reactions & recycle loops.
+**M.Phil. in Engineering**, _The University of Edinburgh_, Edinburgh, UK
 
-`Sep 2014 – Apr 2016`\\
-**Department of Physics**, University College Cork, Ireland\\
-*Teaching and Lab Assistant*
-* Lab demonstrator in the Physics Department for practical sessions for first-year undergraduate physics students (3 hours/week).
-* Teaching Assistant for tutorial sessions for first-year biological science students (3 hours/week).
-* Introduced general physics topics and skills to prepare for further studies in the physical sciences.
-* Demonstrated experiments for measuring mechanical and electrical properties, prepared weekly tutorials, solved assigned problems, explained theory and concepts, graded exams and reports.
-* Topics covered included classical mechanics, thermodynamics, electricity and electrical circuits, electro-and-magnetostatics, geometrical optics, quantum mechanics, and nuclear physics.
-
-`Jun 2014 – Aug 2014`\\
-**The Tyndall National Institute**, Cork, Ireland\\
-*Undergraduate Research Associate* (Intern)
-* Designed data acquisition LabVIEW scripts for power-voltage-current analysis.
-* Used pulsed and continuous-wave lasers to determine gain profiles and cavity modes of photonic devices.
-* Developed an experimental setup for the measurement of thermal resistance controlled by LabVIEW with automated scripting graphs to MATLAB.
-* Performed spectral measurements of semiconductor devices in the near-infrared.
-
----
-# Education
-`2023`
-**The University of Edinburgh**, Edinburgh, UK
-* *Master of Philosophy* (MPhil) in Engineering specializing in Electronic Engineering and Robotics.
-
-`2016`
-**University College Cork**, Cork, Ireland
-* *Master of Science* (MSc) in Physics.
+- Master of Philosophy in Electronic Engineering and Robotics.
+- Research areas: robotics, fluidics, electronics, digital systems design.
 
 `2015`
-**University College Cork**, Cork, Ireland
-* *Bachelor of Science* (BSc) in Chemical Physics.
 
----
-# Awards
-`2019`
-Winner of Most Outstanding Student Paper, *2019 IEEE International Conference on Soft Robotics*, Seoul, South Korea
+**B.Sc. in Chemical Physics**, _University College Cork_, Cork, Ireland
 
-`2017`
-Winner of the Dx Challenge, *2017 Antimicrobial Resistance Design Challenge Competition Winter School*, Edinburgh, UK
+- Bachelor of Science (Hons.) with a joint major in Experimental Physics and Physical Chemistry.
+- Subject area: quantum mechanics, solid-state-, astro- and computational physics; physical-,material-, and atmospheric chemistry.
 
----
-# Publications
-*For the most up-to-date list of publications see [Google Scholar](https://scholar.google.com/citations?user=OJ2aNK4AAAAJ&hl=en).*
+## Experience
+
+`Dec 2023 - Present`
+_Outlier_, Edinburgh, UK (Remote)
+
+**AI Project Specialist** (Contract)
+
+- Leading the training of AI models with human-in-the-loop feedback from prompts and responses.
+- Carefully evaluate and rank responses generated by AI systems, ensuring top-notch quality and efficacy.
+- Applying deep domain expertise in Physics, Mathematics, and Engineering to assess the accuracy and relevance of text produced by AI models.
+
+`Jan 2023 - Sep 2023`
+_DCEK Group, Limited_, Chicago, USA
+
+**Self-Employed Technical Consultant**
+
+- Self-employed technical consultant to deliver high-quality consulting services to clients across various state and local government agencies.
+- Designed electrical and mechanical systems for manufacturing from requirements to prototypes.
+- Managed complex projects from inception to completion.
+- Demonstrated strong entrepreneurial spirit in identifying new opportunities and building client networks.
+
+`May 2022 - Sep 2023`
+_Flexible Thinking, LLC_, Chicago, USA
+
+**Solo Founder**
+
+- I participated in the Y Combinator Startup School for developing zero carbon and self-building additional dwelling units (ADU) to combat the housing shortage and US housing costs.
+- Founded Flexible Thinking and soft-launched a product breakdown structure (PBS) based on the Wikihouse building system.
+- Interview hundreds of clients to establish pain points, bottlenecks, problems and challenges and consult with tiny housing organisations in the greater Chicago area.
+- Developed a design software stack built on `OpenSCAD` and `Python` for customer-custom building plans from high-level design requirements compiled down to low-level building blocks.
+- I worked with a local CNC manufacturer to prototype 1/8-scale tiny house plans and designs.
+
+`Dec 2021 - May 2022`
+_Edinburgh Instruments_, Remote USA
+
+**Sales Engineer**
+
+- Spectroscopic solutions expert partaking in proactive customer interactions to promote Edinburgh Instrument's products.
+- Qualified leads, developed customer interest in instrumentation and actively followed through to closure to meet targets.
+- Liaised with other teams internally, such as working with research & development for a bespoke order or creating technical content with the marketing team.
+- Prepared quotations using Customer Relationship Managerment (CRM) software and updated the sales database weekly.
+- Analysed of the optical spectroscopy market in the Americas to identify growth areas, new applications, and funding trends.
+
+`Oct 2020 - Mar 2021`
+_Stealth Mode Startup Company_, Edinburgh, UK
+
+**Early-Stage Researcher**
+
+- Contributed as a researcher for a startup focusing on designing complex fluidic systems.
+- Developed patented technology with applications in microfluidics (biotech) and industrial hydraulics (robotics).
+- Utilized CAD/CAM for refining prototype systems and iterated designs through rapid manufacturing methods.
+
+`Feb 2019 - Mar 2020`
+_Ioma Limited_, Ediburgh, UK
+
+**Solo Founder**
+
+- I started a company to design fluidic systems.
+- I developed technology for rapidly developing microfluidics for biotechnology.
+- Sold in March 2020.
+
+## Academic Research
+
+`Jun 2019 - Oct 2020`
+_School of Engineering_, The University of Edinburgh, UK
+
+**Research Associate**
+
+- Developed a fluidic-controlled system for a hydraulic robotic systems for robotics in nuclear decomissioning environments.
+- Provided systems engineering principles for developing a systems interface based on the Robotic Operating System.
+- Led mechanical engineering design and fabrication, including structural analysis and CAD design/FEM.
+- Prototyped proof-of-concept and ideation using rapid prototyping tools.
+- Disseminated research through internal reports, conference proceedings, and journal publications.
+
+`Sep 2016 - May 2019`
+_School of Engineering_, The University of Edinburgh, UK
+
+**Research Assistant**
+
+- Postgraduate researcher with the Soft Systems Group at the Institute for Micro and Nano Systems at School of Engineering
+- Implemented a pneumatic control architecture to increase the capabilities of soft robotic systems.
+- Focused on the design, build and test of complex robotic system using in-house rapid prototyping methodologies (fused deposition modeling 3D-printing, stereolithography 3D-printing, vector cutting, PCB manufacture).
+- Collaborative work with research associates, academic partners, PhD students from participating and related groups.
+
+`Jun 2014 - Aug 2014`
+_Tyndall National Institute_, Cork, Ireland
+
+**Undergraduate Research Associate (Intern)**
+
+- Designed data acquisition LabVIEW scripts for power-voltage-current analysis.
+- Used pulsed and continuous-wave lasers to determine gain profiles and cavity modes of photonic devices.
+- Developed an experimental setup for the measurement of thermal resistance controlled by `LabVIEW` with automated scripting graphs to `MATLAB`.
+- Performed spectral measurements of semiconductor devices in the near-infrared.
+
+## Publications
+
+### Papers
+
+For the most up-to-date list of publications see [Google Scholar](https://scholar.google.com/citations?user=OJ2aNK4AAAAJ&hl=en).
+
+### Patents
+
+Stephen Mahon and Adam Stokes. 2022. Hydraulic Control System, [WO 2022/248836](https://patents.google.com/patent/WO2022248836A1/) A1, published.
