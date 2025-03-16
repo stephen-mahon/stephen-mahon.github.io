@@ -18,9 +18,9 @@ permalink: /about/
 **Doctor of Philosophy in Engineering** (Candidate), _The University of Edinburgh_, Edinburgh, UK
 Sep 2016 - Oct 2020
 
-Dissertation: Fluidic logic for the design and control of soft robotic systems
-Supervisor: Prof Adam A. Stokes
-Research areas: fluidics, robotics, digital systems design.
+- Dissertation: Fluidic logic for the design and control of soft robotic systems
+- Supervisor: Prof Adam A. Stokes
+- Research areas: fluidics, robotics, digital systems design.
 
 `2016`
 
@@ -29,7 +29,8 @@ Research areas: fluidics, robotics, digital systems design.
 - Experimental degree in laser physics.
 - Cavity-enhanced absorption detection of H2S in the near-infrared using a gain-switched frequency comb laser.
 - Subject area: experimental physics, lasers, photonics, atmospheric chemistry, cavity-enhanced absorption spectroscopy.
-  `2015`
+
+`2015`
 
 **B.Sc. in Chemical Physics**, _University College Cork_, Cork, Ireland
 
